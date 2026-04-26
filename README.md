@@ -170,6 +170,3 @@ This pipeline simulates how companies process raw e-commerce data to:
 ```
 
 
-
-Just tell 👍
-```
