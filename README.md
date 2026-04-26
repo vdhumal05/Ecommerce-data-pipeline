@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Data Pipeline
 
 ##  Project Overview
@@ -24,3 +25,6 @@ This project is an end-to-end ETL (Extract, Transform, Load) pipeline built usin
 ##  Output
 - Clean dataset stored in CSV
 - Structured data stored in database
+=======
+# Ecommerce-data-pipeline
+>>>>>>> f896a848eab4214bce174112576b943f58004b47
